@@ -26,7 +26,3 @@ User Query
 - AI: Mistral LLM
 - Data: Reddit (PRAW)
 - Frontend: Jinja2 + TailwindCSS
-
-
-git clone https://github.com/yourusername/unveil.git
-cd unveil
